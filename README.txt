@@ -40,3 +40,15 @@ Where to start the program in c++: You have to make a new c++ file, and first st
 Hardest part of your work:
 
 Ohhhhhh, definitely project4. I didn't even know how to fully make it correct, and in fact that it had a bug was even expected. Luckily, thanks to the help of ChatGPT, it was quick to fix the bug. So yeah, I can't wait for more projects, especially the ones that include anything game stuff. Later. ;)
+
+UPDATE V1
+
+------------
+
+After digging through project5, I realized what the next task meant. So I just added something simple and done. As for project4, it wasn't hard either, just had to make sure I had the right guess so I asked ChatGPT about this. And for the answer of that question, the answer is main().
+
+UPDATE V1.1
+
+-------------
+
+Found another bug in project4. Thought it would be too hard to fix it and would take a lot of process, but it wasn't that big and I guess I was a bit worried. But I guess that is all...hopefully.

@@ -28,6 +28,12 @@ int main() {
         alive = false;
     }
 
+    else {
+    cout << "Invalid input. Please enter yes or no." << endl;
+    cout << "Is the player still alive? ";
+    cin >> aliveInput;
+    }
+
     if (alive == true) {
         cout << "The player name is " << name << ", his age is " << age << ", his initial score is " << score << ", and he is technically alive." << endl;
     }

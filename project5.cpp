@@ -24,7 +24,7 @@ int main() {
     cout<<"Age: "<<age<<endl;
     cout<<"Health: "<<health<<endl;
     cout<<"Coins: "<<coin<<endl;
-    cout<<"Next level coins: 21"<<endl;
+    cout<<"Next level coins: "<<coin+10<<endl;
     cout<<"========================="<<endl;
 
     return 0;
