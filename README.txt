@@ -52,3 +52,9 @@ UPDATE V1.1
 -------------
 
 Found another bug in project4. Thought it would be too hard to fix it and would take a lot of process, but it wasn't that big and I guess I was a bit worried. But I guess that is all...hopefully.
+
+UPDATE V1.2
+
+--------------
+
+Found yet another bug in project4, which now is called projectv14, since I can't put any dots in my files and they will break. Anyways, found the main problem, seems like somehow I forgot the while feature. I definitely need to review it all from a YouTube tutorial I know, but hopefully, I won't make the same mistakes. That's all.
