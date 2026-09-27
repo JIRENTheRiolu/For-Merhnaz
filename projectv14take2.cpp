@@ -18,20 +18,21 @@ int main() {
     cout << "Initial Score: ";
     cin >> score;
 
-    cout << "Is the player still alive? ";
-    cin >> aliveInput;
+    while (true) {
+        cout << "Is the player still alive? ";
+        cin >> aliveInput;
 
-    if (aliveInput == "yes") {
-        alive = true;
-    }
-    else if (aliveInput == "no") {
-        alive = false;
-    }
-
-    else {
-    cout << "Invalid input. Please enter yes or no." << endl;
-    cout << "Is the player still alive? ";
-    cin >> aliveInput;
+        if (aliveInput == "yes") {
+            alive = true;
+            break;
+        }
+        else if (aliveInput == "no") {
+            alive = false;
+            break;
+        }
+        else {
+            cout << "Invalid input. Please enter yes or no." << endl;
+        }
     }
 
     if (alive == true) {
